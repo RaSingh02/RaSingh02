@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Randeep Singh
+- 👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
+- 🌱 I’m currently learning: Python, Java, CSS, HTML, JavaScript
+- 📫 How to reach me: ra.singh0502@gmail.com
