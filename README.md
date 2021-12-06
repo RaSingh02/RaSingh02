@@ -1,10 +1,10 @@
 ## Hi, I’m Randeep Singh 👋
 
-👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
+👀 Interests: Reading, Video Games, Artifical Intelligence, Space, & Photography
 
-🌱 I’m currently learning: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
+🌱 Studying: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
 
-📫 How to reach me: ra.singh0502@gmail.com
+📫 Contact: ra.singh0502@gmail.com
 
 I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Junior year.
 
