@@ -1,4 +1,4 @@
-👋 Hi, I’m Randeep Singh
+## Hi, I’m Randeep Singh 👋
 
 👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
 
