@@ -6,5 +6,5 @@
 ![Randeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasingh02&theme=tokyonight&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransingh02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasingh02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
