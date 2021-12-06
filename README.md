@@ -8,6 +8,8 @@
 
 I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Junior year.
 
+<br />
+
 [![Randeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasingh02&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
