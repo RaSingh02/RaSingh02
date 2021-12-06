@@ -1,12 +1,16 @@
 👋 Hi, I’m Randeep Singh
+
 👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
+
 🌱 I’m currently learning: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
+
 📫 How to reach me: ra.singh0502@gmail.com
 
 I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Junior year.
 
 [![Randeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasingh02&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 <br />
 
 ### Languages and Tools:
