@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Randeep Singh
-- 👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
-- 🌱 I’m currently learning: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
-- 📫 How to reach me: ra.singh0502@gmail.com
+👋 Hi, I’m Randeep Singh
+👀 I’m interested in: Reading, Video Games, Artifical Intelligence, Space, & Photography
+🌱 I’m currently learning: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
+📫 How to reach me: ra.singh0502@gmail.com
 
 I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Junior year.
 
@@ -20,7 +20,6 @@ I am a Full-Time Computer Science Student at [Clarkson University](https://clark
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/nodejs)
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />](https://github.com/topics/npm)
 
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasingh02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
