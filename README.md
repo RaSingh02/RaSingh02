@@ -2,11 +2,11 @@
 
 👀 Interests: Reading, Video Games, Artifical Intelligence, Space, & Photography
 
-🌱 Studying: HTML, CSS, JS, Node.js, Express.js, EJS, React.js, NoSQL
+🌱 Studying: Deep Learning, Python, Haskell, Javascript, C++, Java, HTML, CSS, & Node.js
 
 📫 Contact: ra.singh0502@gmail.com
 
-I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Junior year.
+I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Senior year.
 
 <br />
 
