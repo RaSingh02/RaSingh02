@@ -1,12 +1,10 @@
 ## Hi, I’m Randeep Singh 👋
 
-👀 Interests: Reading, Video Games, Artifical Intelligence, Space, & Photography
+👀 Interests: Reading, Video Games, Artificial Intelligence, Space, & Photography
 
 🌱 Studying: Deep Learning, Python, Haskell, Javascript, C++, Java, HTML, CSS, & Node.js
 
 📫 Contact: ra.singh0502@gmail.com
-
-I am a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu) in my Senior year.
 
 <br />
 
