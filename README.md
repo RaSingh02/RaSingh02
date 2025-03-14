@@ -4,8 +4,6 @@
 
 🌱 Studying: Deep Learning, Python, Haskell, Javascript, C++, Java, HTML, CSS, & Node.js
 
-📫 Contact: ra.singh0502@gmail.com
-
 <br />
 
 [![Randeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasingh02&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
